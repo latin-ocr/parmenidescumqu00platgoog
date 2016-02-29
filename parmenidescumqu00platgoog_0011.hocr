@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./parmenidescumqu00platgoog_0011.png"; bbox 0 0 3775 5442; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 692 1530 1138 1637">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 692 1530 1138 1637">
+     <span class='ocr_line' id='line_1_1' title="bbox 692 1530 1138 1637; baseline 0.004 -5"><span class='ocrx_word' id='word_1_1' title='bbox 692 1530 1138 1637; x_wconf 77' lang='lat' dir='ltr'><strong>PROLEGOMENA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 372 2218 1449 2360">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 372 2218 1449 2360">
+     <span class='ocr_line' id='line_1_2' title="bbox 372 2218 1449 2360; baseline 0.005 -5"><span class='ocrx_word' id='word_1_2' title='bbox 372 2226 817 2357; x_wconf 75' lang='lat' dir='ltr'><strong>PLATONIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 850 2218 1449 2360; x_wconf 75' lang='lat' dir='ltr'><strong>PARMENIDEM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 635 2687 1181 2787">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 635 2687 1181 2787">
+     <span class='ocr_line' id='line_1_3' title="bbox 635 2687 1181 2787; baseline 0.005 -22"><span class='ocrx_word' id='word_1_4' title='bbox 635 2692 802 2768; x_wconf 76' lang='lat' dir='ltr'><strong>unm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 835 2687 1181 2787; x_wconf 71' lang='lat' dir='ltr'><strong>Qumuon.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 814 3076 1021 3087">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 814 3076 1021 3087">
+     <span class='ocr_line' id='line_1_4' title="bbox 814 3076 1021 3087; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 814 3076 1021 3087; x_wconf 65' lang='lat' dir='ltr'><strong>——aa—-a</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1892 5442">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1892 5442">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1892 5442; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1892 5442; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
